@@ -8,10 +8,10 @@ import { Link } from "react-router-dom";
 
 const authorsData = [
   { id: 1, avatar: Avatar1, name: "Mohammed Afzal", posts: 3 },
-  { id: 2, avatar: Avatar2, name: "Mohammed Asif", posts: 5 },
-  { id: 3, avatar: Avatar3, name: "Asma Parveen", posts: 0 },
-  { id: 4, avatar: Avatar4, name: "Shainaz B", posts: 2 },
-  { id: 5, avatar: Avatar5, name: "Baba Fakruddin", posts: 1 },
+  { id: 2, avatar: Avatar2, name: "User2", posts: 5 },
+  { id: 3, avatar: Avatar3, name: "User3", posts: 0 },
+  { id: 4, avatar: Avatar4, name: "User4", posts: 2 },
+  { id: 5, avatar: Avatar5, name: "User5", posts: 1 },
 ];
 
 function Authors() {
